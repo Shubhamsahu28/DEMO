@@ -1,2 +1,1 @@
-# DEMO
-It is related to demo of Github
+It contain Instructions of project
